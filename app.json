@@ -1,5 +1,5 @@
 {
-  "name": "AutoCaption_Ts_Bot-Clone",
+  "name": "DynamicAutoCaption",
   "description": "Telegram auto caption bot. Create your Fork now.",
   "keywords": [
     "telegram",
@@ -7,9 +7,9 @@
     "auto",
     "caption" 
   ],
-  "success_url": "https://github.com/Ts-Bots/AutoCaption-Ts_Bot-Clone",
-  "website": "https://github.com/Ts-Bots/AutoCaption-Ts_Bot-Clone",
-  "repository": "https://github.com/Ts-Bots/AutoCaption-Ts_Bot-Clone",
+  "success_url": "https://github.com/Mr-Dynamic/AutoCaption-Ts_Bot-Clone",
+  "website": "https://github.com/Mr-Dynamic/AutoCaption-Ts_Bot-Clone",
+  "repository": "https://github.com/Mr-Dynamic/AutoCaption-Ts_Bot-Clone",
   "logo": "https://telegra.ph/file/eee1877ba8a1e7077b2a8.jpg",
   "env": {
     "WEBHOOK": {
@@ -38,7 +38,7 @@
     },
     "ADMIN_USERNAME": {
       "description": "Admin username without [@], Default will be Ts_bots",
-      "value": "Ts_bots", 
+      "value": "DynamicHub", 
       "required": false
     }        
     
